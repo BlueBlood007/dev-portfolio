@@ -37,3 +37,25 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px skyblue;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#first{
+    border-left: 10px solid tomato;
+}
+#second{
+    border-left: 10px solid blue;
+}
+footer p{
+    text-align: center;
+}
